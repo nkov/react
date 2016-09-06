@@ -9,8 +9,6 @@
  * @providesModule DOMPropertyOperations
  */
 
-'use strict';
-
 var DOMProperty = require('DOMProperty');
 var ReactDOMComponentTree = require('ReactDOMComponentTree');
 var ReactInstrumentation = require('ReactInstrumentation');
